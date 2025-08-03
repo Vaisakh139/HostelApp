@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Vaisakh139.github.io/HostelHaven",
+  "homepage": "https://Vaisakh139.github.io/HostelBking",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
